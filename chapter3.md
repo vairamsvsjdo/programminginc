@@ -22,5 +22,5 @@ added samples from advanced chapter 3 pointers and indirection
 
 
 * TODO: 
-How to use buffer, how to limit reading strings in StdIo, ragged right string
+How to use buffer, how to limit reading strings in StdIo, ragged right string  (ragged - uneven string length and hence the right side of strings are not evenly input and written)
 
