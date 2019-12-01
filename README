@@ -1,3 +1,17 @@
 # Programming in C
 This is a repository that holds samples, notes from Introduction to C and Advanced C
 Tips and tricks
+
+To understand how the assembler is compiling your application use gcc -S command as below example:
+``` bash
+gcc -S numwords.c
+```
+The above command generates numwords.s file
+Note that typically, exclude .s files to source control
+In this case, only numwords.s is included. See .gitignore to find out how it is done. More of .gitignore cheatsheet can be found [in GIT SCM Documentation](https://git-scm.com/docs/gitignore) 
+
+Cheatsheet and documentation for markdown can be found in [markdown guide](https://www.markdownguide.org/cheat-sheet/)
+
+VS Code can be use to Preview markdown documents
+
+
